@@ -3,7 +3,7 @@
 The code in 2DGOptimizer.ipynb reconstructs a grayscale image using a combination of 2D Gaussian functions. The process involves initializing a set of Gaussians over the image, then refining their parameters (e.g., position, spread, orientation) to best match the original image.
 
 ## Result
-<img src="https://raw.githubusercontent.com/uynitsuj/AIMLDLplayground/main/2D%20Gaussian%20Optimization/data/gaussian_reconstruction.gif" width="700" height="700">
+<img src="https://raw.githubusercontent.com/uynitsuj/2DGaussianOptimization/main/data/gaussian_reconstruction.gif" width="500" height="500">
 
 
 ## Libraries
