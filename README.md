@@ -4,7 +4,14 @@ The code in 2DGOptimizer.ipynb reconstructs a grayscale image using a combinatio
 
 ## Result
 <img src="https://raw.githubusercontent.com/uynitsuj/2DGaussianOptimization/main/data/gaussian_reconstruction.gif" width="500" height="500">
+Original Image:
+<img src="https://raw.githubusercontent.com/uynitsuj/2DGaussianOptimization/main/data/output1.png" width="350" height="350">
 
+Gaussians after 1 iteration:
+<img src="https://raw.githubusercontent.com/uynitsuj/2DGaussianOptimization/main/data/output2.png" width="350" height="350">
+
+Gaussians after 250 iterations:
+<img src="https://raw.githubusercontent.com/uynitsuj/2DGaussianOptimization/main/data/output3.png" width="350" height="350">
 
 ## Libraries
 ```python
