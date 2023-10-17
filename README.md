@@ -3,7 +3,7 @@
 Reconstructs a grayscale image using a combination of 2D Gaussians. Initializes a set of Gaussians over the image, then refines their parameters (e.g., position, spread, orientation, color) to best match the original image.
 
 ## Result
-<img src="https://raw.githubusercontent.com/uynitsuj/2DGaussianOptimization/main/data/flwrrecon2.gif" width="500" height="500">
+<img src="https://raw.githubusercontent.com/uynitsuj/2DGaussianOptimization/main/data/flwrrecon3.gif" width="500" height="500">
 
 Original Image:
 
