@@ -1,6 +1,6 @@
 # Gaussian Optimization on a 2D Image
 
-The code in 2DGOptimizer.ipynb reconstructs a grayscale image using a combination of 2D Gaussians. The process involves initializing a set of Gaussians over the image, then refining their parameters (e.g., position, spread, orientation, color) to best match the original image.
+Reconstructs a grayscale image using a combination of 2D Gaussians. Initializes a set of Gaussians over the image, then refines their parameters (e.g., position, spread, orientation, color) to best match the original image.
 
 ## Result
 <img src="https://raw.githubusercontent.com/uynitsuj/2DGaussianOptimization/main/data/flwrrecon2.gif" width="500" height="500">
@@ -13,7 +13,7 @@ Gaussians after 1 iteration:
 
 <img src="https://raw.githubusercontent.com/uynitsuj/2DGaussianOptimization/main/data/output2.png" width="350" height="350">
 
-Gaussians after 250 iterations:
+Gaussians after 300 iterations:
 
 <img src="https://raw.githubusercontent.com/uynitsuj/2DGaussianOptimization/main/data/output3.png" width="350" height="350">
 
