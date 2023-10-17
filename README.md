@@ -13,7 +13,7 @@ Gaussians after 1 iteration:
 
 <img src="https://raw.githubusercontent.com/uynitsuj/2DGaussianOptimization/main/data/output2.png" width="350" height="350">
 
-Gaussians after 250 iterations:
+Gaussians after 300 iterations:
 
 <img src="https://raw.githubusercontent.com/uynitsuj/2DGaussianOptimization/main/data/output3.png" width="350" height="350">
 
