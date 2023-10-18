@@ -7,15 +7,15 @@ Reconstructs a grayscale image using a combination of 2D Gaussians. Initializes 
 
 Original Image:
 
-<img src="https://raw.githubusercontent.com/uynitsuj/2DGaussianOptimization/main/data/output31.png" width="350" height="350">
+<img src="https://raw.githubusercontent.com/uynitsuj/2DGaussianOptimization/main/data/output31.png" width="400" height="400">
 
 Gaussians after 1 iteration:
 
-<img src="https://raw.githubusercontent.com/uynitsuj/2DGaussianOptimization/main/data/output32.png" width="350" height="350">
+<img src="https://raw.githubusercontent.com/uynitsuj/2DGaussianOptimization/main/data/output32.png" width="400" height="400">
 
 Gaussians after 300 iterations:
 
-<img src="https://raw.githubusercontent.com/uynitsuj/2DGaussianOptimization/main/data/output33.png" width="350" height="350">
+<img src="https://raw.githubusercontent.com/uynitsuj/2DGaussianOptimization/main/data/output33.png" width="400" height="400">
 
 ## Libraries
 ```python
