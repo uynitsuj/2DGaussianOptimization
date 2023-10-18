@@ -7,7 +7,7 @@ Reconstructs a grayscale image using a combination of 2D Gaussians. Initializes 
 
 Original Image:
 
-<img src="https://raw.githubusercontent.com/uynitsuj/2DGaussianOptimization/main/data/output3.png" width="350" height="350">
+<img src="https://raw.githubusercontent.com/uynitsuj/2DGaussianOptimization/main/data/output31.png" width="350" height="350">
 
 Gaussians after 1 iteration:
 
