@@ -28,24 +28,3 @@ import imageio
 from IPython.display import Video, display
 ```
 
-## 2D Gaussian Function
-Defines a 2D Gaussian function with parameters for position, spread, intensity, and rotation.
-
-```python
-def gaussian_2d(x, y, mu_x, mu_y, sigma_x, sigma_y, color_intensity, rotation_angle):
-```
-
-## Loss Function
-Defines a Mean Squared Error (MSE) loss function to measure the difference between the original image and the Gaussian-based reconstruction.
-
-```python
-def mse_loss(params):
-```
-
-## Optimization
-Uses the Adam optimizer to refine the Gaussians' parameters for better image reconstruction. Also employs a learning rate scheduler for better convergence.
-
-```python
-optimizer = optim.Adam([params], lr=0.5) 
-scheduler = optim.lr_scheduler.StepLR(optimizer, step_size=100, gamma=0.7)
-```
